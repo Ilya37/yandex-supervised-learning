@@ -1,3 +1,3 @@
 # yandex-supervised-learning
-ML course, week 2
+ML course
 https://www.coursera.org/learn/supervised-learning/home/welcome
