@@ -1,3 +1,3 @@
 # yandex-supervised-learning
-ML course
+ML MIPT Yandex course 2
 https://www.coursera.org/learn/supervised-learning/home/welcome
